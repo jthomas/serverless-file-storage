@@ -1,0 +1,7 @@
+{
+  "name": "presign",
+  "main": "presign.js",
+  "dependencies": {
+    "mime-types": "^2.1.18"
+  }
+}

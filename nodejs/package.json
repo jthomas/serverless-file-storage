@@ -1,0 +1,7 @@
+{
+  "name": "upload-files",
+  "main": "actions.js",
+  "dependencies": {
+    "mime-types": "^2.1.18"
+  }
+}
